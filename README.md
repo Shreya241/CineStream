@@ -1,5 +1,5 @@
 # Movie-Suggestion-App
-![GitHub repo size](https://img.shields.io/github/repo-size/Shreya241/README-template.md)
+![GitHub repo size](https://img.shields.io/github/repo-size/Shreya241/Movie-Suggestion-App)
 ![GitHub followers](https://img.shields.io/github/followers/Shreya241?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/s_h_r_e_y_a_agr?style=social)
 ![GitHub contributors](https://img.shields.io/github/contributors/Shreya241/Movie-Suggestion-App)
