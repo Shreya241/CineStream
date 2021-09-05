@@ -1,10 +1,11 @@
 # Movie-Suggestion-App
 ![GitHub repo size](https://img.shields.io/github/repo-size/Shreya241/README-template.md)
 ![GitHub followers](https://img.shields.io/github/followers/Shreya241?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/Shreya241/Movie-Suggestion-APP?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/s_h_r_e_y_a_agr?style=social)
 ![GitHub contributors](https://img.shields.io/github/contributors/Shreya241/Movie-Suggestion-App)
 ![GitHub top language](https://img.shields.io/github/languages/top/Shreya241/Movie-Suggestion-App)
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 Project name is a `A Movie Suggestion App` that allows `users` to get the information of all latest and trending movies.
@@ -44,3 +45,14 @@ Before you begin, ensure you have met the following requirements:
    ```sh
    localhost:3000/ideas
    ```  
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/Shreya241/Movie-Suggestion-App/blob/main/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/shreya--agrawal/
