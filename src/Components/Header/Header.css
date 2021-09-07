@@ -6,9 +6,9 @@
     justify-content: center;
     text-transform: uppercase;
     background-color:rgb(48, 47, 47);
-    font-family: "Fira Sans";
+    font-family: Raleway, sans-serif;
     padding-bottom: 15px;
-    font-size: 5vw;
+    font-size: 4.5vw;
     box-shadow: 0px 1px 5px rgb(20, 20, 20);
     color: white;
     z-index: 100;

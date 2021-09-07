@@ -1,6 +1,4 @@
 import { Container } from "@material-ui/core";
-
-
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import "./App.css";
 import Header from "./Components/Header/Header";
