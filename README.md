@@ -11,7 +11,7 @@ https://suspicious-morse-6976ef.netlify.app/
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-Project name is a `A Movie Suggestion App` that allows `users` to get the information of all latest and trending movies.
+Project name is `A Movie Suggestion App` that allows `users` to get the information of all latest and trending movies.
 
 The user can simply go to the app and see the trending movies around the World rated by MovieDB. The user has the option to switch between diffrent Genre. 
 There will be options for Movies or Series, and the user can watch accordingly. He can also search for any movie manually and there will be options to watch the official 
