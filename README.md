@@ -1,4 +1,4 @@
-# Movie-Suggestion-App
+# CineStream
 
 https://suspicious-morse-6976ef.netlify.app/
 
